@@ -1,5 +1,5 @@
-UIViewAnimations Demo
-=====================
+Address Book iPhone
+===================
 
 ![My image](http://www.jaist.ac.jp/~s1010205/images/AddressBook1.png)
 ![My image](http://www.jaist.ac.jp/~s1010205/images/AddressBook2.png)

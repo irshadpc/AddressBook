@@ -43,7 +43,6 @@
 
 - (BOOL)peoplePickerNavigationController: (ABPeoplePickerNavigationController *)peoplePicker shouldContinueAfterSelectingPerson:(ABRecordRef)person {
 	
-
     self.labelFirstName.text = (__bridge NSString *)ABRecordCopyValue(person, kABPersonFirstNameProperty);
     self.labelLastName.text = (__bridge NSString *)ABRecordCopyValue(person, kABPersonLastNameProperty);
 
